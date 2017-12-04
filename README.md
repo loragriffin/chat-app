@@ -1,6 +1,9 @@
 # Chat App
 
-Simple chat app using:
+## About
+Simple chat app using websocket
+
+## Built With
 - Express
 - Socket.io
 - JavaScript
